@@ -1,5 +1,14 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<div> <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=안녕하세요!%20render&fontSize=90" /> </div>
+<div align=center> 
+<div align=center><h1>📚 STACKS</h1></div>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"><br>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
 <!--
 **youngkiSeo/youngkiSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
