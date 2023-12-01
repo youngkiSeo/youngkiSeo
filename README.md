@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
+<div>
+<p>소통하면서 성장하는 개발자</p>
+</div>
 <!--
 **youngkiSeo/youngkiSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
