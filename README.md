@@ -1,4 +1,8 @@
 <div><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=YoungKi&fontSize=90"/></div>
+
+<div>
+<p>소통하면서 성장하는 개발자</p>
+</div>
 <div align=center> 
 <div align=center><h1>📚 STACKS</h1></div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -7,9 +11,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<div>
-<p>소통하면서 성장하는 개발자</p>
-</div>
+
 <!--
 **youngkiSeo/youngkiSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
