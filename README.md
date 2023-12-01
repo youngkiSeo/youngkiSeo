@@ -1,6 +1,6 @@
 <div><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=YoungKi&fontSize=90"/></div>
 
-<div>
+<div align=center>
 <p>소통하면서 성장하는 개발자</p>
 </div>
 <div align=center> 
