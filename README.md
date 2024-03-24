@@ -1,4 +1,4 @@
-<div><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=About Me! &fontSize=90"/></div>
+<div><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=AboutMe&fontSize=90"/></div>
 
 <div align=center>
 <p>성장하는 개발자</p>
